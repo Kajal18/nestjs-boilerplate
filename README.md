@@ -1,1 +1,2 @@
-# nestjs-boilerplate
+# nestjs-graphql-boilerplate
+
